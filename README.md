@@ -2,7 +2,7 @@
 
 # SocialConnect 🌟
 
-A modern, beautiful social media platform built with React, featuring glass morphism design, real-time interactions, and seamless user experience.
+A modern, beautiful social media platform built with React, featuring glass morphism design,  interactive UI elements, and seamless user experience.    
 
 
 ##  Live Demo
