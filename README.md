@@ -35,7 +35,7 @@ Experience SocialConnect live: [https://social-app-eta-bice.vercel.app/](https:/
 - **State Management**: React Context API
 - **Deployment**: Vercel
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 - Node.js 16+ 
