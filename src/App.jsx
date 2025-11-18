@@ -14,10 +14,48 @@ function AppContent() {
   const { user, loading } = useAuth()
   const [activePage, setActivePage] = useState('home')
 
+  useEffect(() => {
+    // Initialize with some mock data
+    const initializeData = () => {
+      if (!localStorage.getItem('social_posts')) {
+        const mockPosts = [
+          {
+            id: '1',
+            userId: '1',
+            content: 'Welcome to SocialConnect! 🚀 The future of social media is here.',
+            image: 'https://images.unsplash.com/photo-1579546929662-711aa81148cf?w=600',
+            timestamp: new Date().toISOString(),
+            likes: 42,
+            comments: [],
+            reposts: 5,
+            likedBy: []
+          },
+          {
+            id: '2',
+            userId: '2',
+            content: 'Just shipped a new feature! The glassmorphism design looks amazing. What do you think?',
+            image: 'https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600',
+            timestamp: new Date(Date.now() - 3600000).toISOString(),
+            likes: 28,
+            comments: [],
+            reposts: 3,
+            likedBy: []
+          }
+        ]
+        localStorage.setItem('social_posts', JSON.stringify(mockPosts))
+      }
+    }
+
+    initializeData()
+  }, [])
+
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-purple-50 to-blue-50 flex items-center justify-center">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600"></div>
+      <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-16 w-16 border-b-2 border-white mx-auto mb-4"></div>
+          <p className="text-white text-lg">Loading SocialConnect...</p>
+        </div>
       </div>
     )
   }
