@@ -15,6 +15,10 @@ function appReducer(state, action) {
   switch (action.type) {
     case 'SET_USER':
       return { ...state, user: action.payload }
+    case 'SET_POSTS':
+      return { ...state, posts: action.payload }
+    case 'SET_CHATS':
+      return { ...state, chats: action.payload }
     case 'ADD_POST':
       return { ...state, posts: [action.payload, ...state.posts] }
     case 'UPDATE_POST':
@@ -77,8 +81,12 @@ export function AppProvider({ children }) {
     if (user) {
       dispatch({ type: 'SET_USER', payload: user })
     }
-    dispatch({ type: 'SET_POSTS', payload: posts })
-    dispatch({ type: 'SET_CHATS', payload: chats })
+    if (posts.length > 0) {
+      dispatch({ type: 'SET_POSTS', payload: posts })
+    }
+    if (Object.keys(chats).length > 0) {
+      dispatch({ type: 'SET_CHATS', payload: chats })
+    }
   }, [])
 
   useEffect(() => {
