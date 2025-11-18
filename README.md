@@ -2,7 +2,6 @@
 
 A modern, beautiful social media platform built with React, featuring glass morphism design, real-time interactions, and seamless user experience.
 
-![SocialConnect](https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200)
 
 ##  Live Demo
 
