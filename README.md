@@ -1,3 +1,5 @@
+![Website Preview](https://raw.githubusercontent.com/amvitor-cm/Social-app/main/socialapp.png)
+
 # SocialConnect 🌟
 
 A modern, beautiful social media platform built with React, featuring glass morphism design, real-time interactions, and seamless user experience.
