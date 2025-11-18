@@ -1,4 +1,4 @@
-![Website Preview](https://raw.githubusercontent.com/amvitor-cm/Social-app/main/socialapp.png)
+![Website Preview](https://raw.githubusercontent.com/amvitor-cm/Social-app/main/socialapp.png) 
 
 # SocialConnect 🌟
 
