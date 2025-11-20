@@ -1,6 +1,6 @@
 ![Website Preview](https://raw.githubusercontent.com/amvitor-cm/Social-app/main/socialapp.png) 
 
-# SocialConnect 🌟
+# SocialConnect 
 
 A modern, beautiful social media platform built with React, featuring glass morphism design,  interactive UI elements, and seamless user experience.    
 
@@ -24,7 +24,7 @@ Experience SocialConnect live: [https://social-app-eta-bice.vercel.app/](https:/
 - **User Profiles** - Customizable profiles with banners
 - **Notifications** - Stay updated with activities
 
-### 🔒 User Management
+###  User Management
 - **Secure Authentication** - Safe login and registration
 - **Profile Customization** - Personal avatars and cover photos
 - **Privacy Focused** - User data protection
@@ -71,7 +71,7 @@ npm run build
 npm run preview
 ```
 
-## 🏗️ Project Structure
+##Project Structure
 
 ```
 src/
@@ -121,14 +121,14 @@ We welcome contributions! Please feel free to submit pull requests or open issue
 - Ensure responsive design
 - Test across different devices
 
-## 📱 Browser Support
+##  Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## 🔮 Roadmap
+##  Roadmap
 
 - [ ] **Group Chats** - Multi-user conversations
 - [ ] **Story Feature** - 24-hour disappearing content
@@ -141,7 +141,7 @@ We welcome contributions! Please feel free to submit pull requests or open issue
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 💬 Questions & Support
+##  Questions & Support
 
 Have questions or need help with SocialConnect? I'd love to hear from you!
 
@@ -166,7 +166,7 @@ When reporting bugs, please include:
 
 <div align="center">
 
-**Built with ❤️ using React and modern web technologies**
+**Built with  using React and modern web technologies**
 
 [Live Demo](https://social-app-eta-bice.vercel.app/) • [Report Issue](https://github.com/your-username/socialconnect/issues) 
 
