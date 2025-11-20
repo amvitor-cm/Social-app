@@ -15,7 +15,7 @@ function AppContent() {
   const [activePage, setActivePage] = useState('home')
 
   useEffect(() => {
-    // Initialize with some mock data
+    // this is a  mock data
     const initializeData = () => {
       if (!localStorage.getItem('social_posts')) {
         const mockPosts = [
