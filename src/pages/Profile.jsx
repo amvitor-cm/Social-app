@@ -27,7 +27,7 @@ export default function Profile() {
           </div>
         </div>
         
-        {/* Profile Info - with extra top padding to account for the profile picture */}
+        {/* Profile Info - with  padding to account for the profile picture */}
         <div className="pt-16 px-6 pb-6">
           <div className="flex items-end justify-between">
             <div className="flex-1">
