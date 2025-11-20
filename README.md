@@ -1,6 +1,6 @@
 ![Website Preview](https://raw.githubusercontent.com/amvitor-cm/Social-app/main/socialapp.png) 
 
-# SocialConnect 
+# SocialConnect ✨
 
 A modern, beautiful social media platform built with React, featuring glass morphism design,  interactive UI elements, and seamless user experience.    
 
@@ -9,7 +9,7 @@ A modern, beautiful social media platform built with React, featuring glass morp
 
 Experience SocialConnect live: [https://social-app-eta-bice.vercel.app/](https://social-app-eta-bice.vercel.app/)
 
-## ✨ Features
+##  Features
 
 ###  Modern Design
 - **Glass Morphism UI** - Beautiful frosted glass effects
