@@ -174,7 +174,7 @@ When reporting bugs, please include:
 
 ---
 ## Contact
-- If you’d like access to the full source code for this project, feel free to reach out:
+- Feel free to reach out:
 
 - Email: amvitor.cm@gmail.com
 - Telegram: @amvior
