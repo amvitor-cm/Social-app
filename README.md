@@ -173,5 +173,10 @@ When reporting bugs, please include:
 </div>
 
 ---
+## Contact
+- If you’d like access to the full source code for this project, feel free to reach out:
+
+- Email: amvitor.cm@gmail.com
+- Telegram: @amvior
 
 *Note: This is a frontend demonstration project. For production use, a secure backend with proper authentication and database would be required.*
