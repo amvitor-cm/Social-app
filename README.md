@@ -146,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Have questions or need help with SocialConnect? I'd love to hear from you!
 
 ### Get in Touch
-- **Email**: [Your Email Address]
+- **Email**: [amvitor.cm@gmail.com]
 - **GitHub Issues**: [Create an Issue](https://github.com/amvitor-cm/social-app/issues)
 - **Feature Requests**: [Suggest a Feature](https://github.com/amvitor-cm/social-app/issues/new?template=feature_request.md)
 
