@@ -47,8 +47,8 @@ Experience SocialConnect live: [https://social-app-eta-bice.vercel.app/](https:/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/socialconnect.git
-   cd socialconnect
+   git clone https://github.com/amvitor-cm/social-app.git
+   cd social-app
    ```
 
 2. **Install dependencies**
@@ -147,8 +147,8 @@ Have questions or need help with SocialConnect? I'd love to hear from you!
 
 ### Get in Touch
 - **Email**: [Your Email Address]
-- **GitHub Issues**: [Create an Issue](https://github.com/your-username/socialconnect/issues)
-- **Feature Requests**: [Suggest a Feature](https://github.com/your-username/socialconnect/issues/new?template=feature_request.md)
+- **GitHub Issues**: [Create an Issue](https://github.com/amvitor-cm/social-app/issues)
+- **Feature Requests**: [Suggest a Feature](https://github.com/amvitor-cm/social-app/issues/new?template=feature_request.md)
 
 ### Common Questions
 - **How do I reset my password?** - Currently working on password recovery feature
@@ -168,7 +168,7 @@ When reporting bugs, please include:
 
 **Built with  using React and modern web technologies**
 
-[Live Demo](https://social-app-eta-bice.vercel.app/) • [Report Issue](https://github.com/your-username/socialconnect/issues) 
+[Live Demo](https://social-app-eta-bice.vercel.app/) • [Report Issue](https://github.com/amvitor=cm/socialconnect/issues) 
 
 </div>
 
